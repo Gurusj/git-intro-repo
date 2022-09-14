@@ -1,2 +1,2 @@
-#Intoduction to git
+# Intoduction to git
 Creating git, readme.md file etc
